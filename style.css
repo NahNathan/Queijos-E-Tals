@@ -1,0 +1,36 @@
+.banner{
+    text-align: center;
+}
+#banner{
+    width:30cm;
+    
+}
+body{
+    background-color:#cccccc;
+}
+.principal{
+    font-size: 20px;
+    color: purple;
+}
+.secundario{
+    font-size: 15px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(224, 228, 0);
+}
+b{
+    color:blue;
+}
+.itens {
+    font-size: 20px;
+    font-style: oblique;
+}
+.final{
+    text-align: center;
+}
+#me_irl{
+    text-align: center;
+}
+
