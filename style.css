@@ -7,6 +7,7 @@ header {
 	position: relative;
 	width: 940px;
 	margin: 0 auto;
+	box-shadow: 5px 6px 5px lightgrey;
 }
 
 nav {
@@ -44,7 +45,7 @@ nav a:active{
 	padding-left: 3em;
 	padding-right: 3em;
 	font-size: 25px;
-	background: linear-gradient (lightgrey, white);
+	background: linear-gradient(lightgrey, white);
 }
 
 .apresentacao{
@@ -64,6 +65,7 @@ nav a:active{
 	border-color: #FFBA5C;
 	border-style: groove;
 	border-radius: 10px;
+	box-shadow: 5px 6px 5px lightgrey;
 
 }
 .descricao{
@@ -82,6 +84,7 @@ p{
 	font-size: 30px;
 	margin: 20 0 0 0px;
 	color: black;
+	text-shadow: 1px 1px white;
 }
 
 footer{
@@ -95,4 +98,5 @@ footer{
 	text-align: center;
 	padding: 1em 0;
 	background: linear-gradient( #FFBA5C, darkorange);
+	box-shadow: 13px 13px 5px lightblue;
 }
