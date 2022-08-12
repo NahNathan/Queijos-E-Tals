@@ -7,7 +7,6 @@ header {
 	position: relative;
 	width: 940px;
 	margin: 0 auto;
-	box-shadow: 5px 6px 5px lightgrey;
 }
 
 nav {
@@ -59,14 +58,18 @@ nav a:active{
 	display: inline-block;
 	text-align: center;
 	vertical-align: top;
-	padding: 5px 5px;
+	padding: 1em 0.5em;
+	margin: 0.5em 0.5em;
 	box-sizing: border-box;
-	border-width: 10px;
+	border-width: 8px;
 	border-color: #FFBA5C;
-	border-style: groove;
-	border-radius: 10px;
-	box-shadow: 5px 6px 5px lightgrey;
+	border-style:groove;
+	border-radius: 15px;
+	box-shadow: 7px 8px 5px black;
+}
 
+.tipos{
+	text-align: center;
 }
 .descricao{
 	font-size: 20;
@@ -89,8 +92,8 @@ p{
 
 footer{
 	text-align: center;
-	margin: 60px;
-	background: url("me_irl.png");
+	
+	background: linear-gradient( #FFBA5C, darkorange);
 	
 }
 
