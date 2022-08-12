@@ -48,13 +48,14 @@ nav a:active{
 }
 
 .apresentacao{
+	background:lightgrey;
 	text-align: center;
-	width: 1000px;
 	margin: 0 auto;	
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	color: purple;
 }
 .tipos li{
+	background:white;
 	display: inline-block;
 	text-align: center;
 	vertical-align: top;
@@ -70,6 +71,7 @@ nav a:active{
 
 .tipos{
 	text-align: center;
+	background: lightgrey;
 }
 .descricao{
 	font-size: 20;
